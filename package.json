@@ -1,0 +1,28 @@
+{
+  "name": "fsd_midterm-1_cse-16_2500320100288",
+  "version": "1.0.0",
+  "description": "Student Record Management API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpit-code13/FSD_midTerm-1_CSE-16_2500320100288.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/arpit-code13/FSD_midTerm-1_CSE-16_2500320100288/issues"
+  },
+  "homepage": "https://github.com/arpit-code13/FSD_midTerm-1_CSE-16_2500320100288#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
